@@ -1,4 +1,4 @@
-numbers = [5, 12, 8, 20, 15, 3, 25]
+numbers =[5, 12, 8, 20, 15, 3, 25]
 
 print("Numbers greater than 10:")
 
