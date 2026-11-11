@@ -7,7 +7,6 @@ for num in numbers:
         even = even + 1
     else:
         odd = odd + 1
-
 print("Numbers:", numbers)
 print("Even numbers =", even)
 print("Odd numbers =", odd)
