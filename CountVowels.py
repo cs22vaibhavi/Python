@@ -1,5 +1,4 @@
 text = input("Enter a word or sentence: ")
-
 vowels = "aeiouAEIOU"
 count = 0
 
